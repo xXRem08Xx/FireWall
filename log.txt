@@ -1,0 +1,6 @@
+Sep 16 10:30:42 f203poste02 sshd[30989]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.28.100.1  user=rmaissa
+Sep 16 10:30:45 f203poste02 sshd[30989]: Failed password for rmaissa from 172.28.100.1 port 58986 ssh2
+Sep 16 10:30:48 f203poste02 sshd[30989]: Failed password for rmaissa from 172.28.100.1 port 58986 ssh2
+Sep 16 10:30:51 f203poste02 sshd[30989]: Failed password for rmaissa from 172.28.100.1 port 58986 ssh2
+Sep 16 10:30:51 f203poste02 sshd[30989]: Connection closed by 172.28.100.1 port 58986 [preauth]
+Sep 16 10:30:51 f203poste02 sshd[30989]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.28.100.1  user=rmaissa
